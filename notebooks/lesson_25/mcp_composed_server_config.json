@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "nova-brown-composed": {
+      "transport": "stdio",
+      "command": "uv",
+      "args": [
+        "--directory",
+        "/usr/local/lib/python3.12/dist-packages/agents_integration/mcp_server",
+        "run",
+        "python",
+        "-m",
+        "src.main"
+      ]
+    }
+  }
+}
+
