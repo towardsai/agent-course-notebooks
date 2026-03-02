@@ -8,15 +8,14 @@ You can find all the course notebooks in the [notebooks](./notebooks) directory.
 
 ## Running the Notebooks
 
-You have two options for running the code in these notebooks:
 
-1. **Run Locally**: You can clone the repository and run the notebooks on your local machine. To do this, ensure you have a Python installation with the necessary dependencies.
+1. **Run Locally**: You can clone the repository and run the notebooks on your local machine. To do this, ensure you have a Python installation with the necessary dependencies. You might run into some problems with a few notebooks, as we built them with Colab in mind!
 2. **Run on Google Colab**: Each notebook includes a link at the top to open it directly in Google Colab, making it easy to run without local setup.
 
 ## About This Repository
 
 - **Audience**: Designed for students and professionals interested in AI and natural language processing.
-- **Topics Covered**: The notebooks cover foundational and advanced concepts agentic AI development, including:
+- **Topics Covered**: The notebooks cover foundational and advanced concepts of agentic AI development, including:
   - Multi-source data collection
   - ReAct reasoning loops
   - Tool orchestration
@@ -28,4 +27,8 @@ You have two options for running the code in these notebooks:
 
 ## Getting Started
 
-Clone the repository and explore the notebooks at your own pace. Whether running them locally or in Colab, these notebooks will guide you step-by-step, enhancing your learning experience.
+Clone the repository and explore the notebooks at your own pace. Whether running them locally or ideally in Colab, these notebooks will guide you step-by-step, enhancing your learning experience.
+
+## Why these notebooks?
+
+They are part of the [Agentic AI Engineering](https://academy.towardsai.net/courses/agent-engineering) course built by Towards AI and Paul Iusztin. They do not represent the full course, missing most of the educational content and the project we built during the course. Check it out to learn more about building production-ready agentic systems!
